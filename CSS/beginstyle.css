@@ -1,0 +1,50 @@
+
+#choose{
+    position: absolute;
+    left: 400px;
+    top:280px;
+}
+p{
+    position: absolute;
+    left: 150px;
+    top:10px;
+    color: saddlebrown;
+    background-color: #ddddff;
+    font-family: sans-serif;
+    padding: 10px 300px 10px 300px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+#victory{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    background-color: #ddddff;
+    padding: inherit;
+    font-size: 60px;
+    text-align: center;
+}
+#begin{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    color: saddlebrown;
+    background-color: #ddddff;
+    font-family: sans-serif;
+    padding: 10px;
+    font-size: 50px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+#more{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    color: saddlebrown;
+    background-color: #ddddff;
+    font-family: sans-serif;
+    padding: 10px;
+    font-size: 50px;
+    border-radius: 10px;
+    text-decoration: none;
+}

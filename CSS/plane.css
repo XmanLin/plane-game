@@ -1,0 +1,9 @@
+#score{
+    position: absolute;
+    left:900px;
+    top:30px;
+    background-color: #ddddff;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
